@@ -30,5 +30,5 @@
 ### Conecte-se comigo
 
 <p align="left">
-<a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-silva-miranda-813431277/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu LinkedIn" height="30" width="40" /></a>
 </p>
